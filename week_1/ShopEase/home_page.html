@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ShopEase e-Market</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <header class="site-header">
+    <div class="logo">ShopEase</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Products</a>
+      <a
+        href="C:\Users\fahad\OneDrive\office_works\MERN_Stack_Project\week_1\about_me.html"
+        >About Me</a
+      >
+    </nav>
+    <button class="cart-button">Cart (0)</button>
+  </header>
+
+  <!-- <script src="script.js"></script> -->
+
+  <body>
+    <section class="hero">
+      <h1>Shop Smarter with ShopEase</h1>
+      <p>
+        Everything you need, delivered fast — quality products at prices that
+        make sense.
+      </p>
+      <div class="hero-actions">
+        <button class="btn-primary">Shop Now</button>
+        <button class="btn-outline">Browse Categories</button>
+      </div>
+    </section>
+
+    <section class="products">
+      <h2 style="text-align: center">Featured Products</h2>
+      <div class="filter-bar">
+        <label for="categoryFilter">Category:</label>
+        <select id="categoryFilter">
+          <option value="all">All</option>
+          <option value="Electronics">Electronics</option>
+          <option value="Clothing">Clothing</option>
+          <option value="Home & Kitchen">Home & Kitchen</option>
+        </select>
+      </div>
+      <div class="product-grid" id="productGrid"></div>
+      <div class="pagination" id="pagination"></div>
+    </section>
+    <footer class="site-footer">
+      <p>&copy; 2026 ShopEase. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

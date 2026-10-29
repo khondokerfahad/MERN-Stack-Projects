@@ -1,0 +1,229 @@
+[
+  {
+    "id": "everyday-tote",
+    "name": "Everyday Canvas Tote",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 24.00,
+    "stock": 12,
+    "badge": "Bestseller",
+    "description": "A sturdy everyday canvas tote with room for your daily essentials. Its comfortable handles and simple design make it an easy companion for errands, work, or a weekend out.",
+    "variants": {
+      "Color": ["Natural", "Olive", "Terracotta"]
+    },
+    "variantStock": {
+      "Color=Natural": 5,
+      "Color=Olive": 6,
+      "Color=Terracotta": 1
+    },
+    "reviews": [
+      { "name": "Maya R.", "rating": 5, "comment": "Roomy, comfortable, and exactly what I wanted for everyday errands.", "date": "October 12, 2026" },
+      { "name": "Nadia K.", "rating": 4, "comment": "The canvas feels sturdy and the color looks just like the photos.", "date": "September 28, 2026" }
+    ]
+  },
+  {
+    "id": "ceramic-mug",
+    "name": "Soft Stoneware Mug",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 18.50,
+    "stock": 8,
+    "badge": "Customer favorite",
+    "description": "A thoughtfully shaped stoneware mug for slow mornings and afternoon tea. The softly textured finish makes every piece feel at home on your table.",
+    "variants": {
+      "Color": ["Cream", "Sage", "Clay"]
+    },
+    "variantStock": {
+      "Color=Cream": 3,
+      "Color=Sage": 3,
+      "Color=Clay": 2
+    },
+    "reviews": [
+      { "name": "Omar H.", "rating": 5, "comment": "A lovely weight and size. It has become my favorite morning mug.", "date": "October 8, 2026" },
+      { "name": "Lina S.", "rating": 4, "comment": "Beautiful finish and easy to hold.", "date": "September 17, 2026" }
+    ]
+  },
+  {
+    "id": "linen-notebook",
+    "name": "Linen Cover Notebook",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.9,
+    "price": 14.00,
+    "stock": 20,
+    "badge": "",
+    "description": "A linen-bound notebook with smooth pages for notes, plans, sketches, and ideas. Its compact format slips easily into a bag or sits neatly on your desk.",
+    "variants": {
+      "Color": ["Oat", "Forest", "Rose"]
+    },
+    "variantStock": {
+      "Color=Oat": 8,
+      "Color=Forest": 7,
+      "Color=Rose": 5
+    },
+    "reviews": [
+      { "name": "Tara M.", "rating": 5, "comment": "The paper is lovely to write on and the cover feels special.", "date": "October 2, 2026" },
+      { "name": "Sam J.", "rating": 5, "comment": "Simple, useful, and a great size to carry around.", "date": "September 19, 2026" }
+    ]
+  },
+  {
+    "id": "classic-sunglasses",
+    "name": "Classic Frame Sunglasses",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 32.00,
+    "stock": 6,
+    "badge": "",
+    "description": "A versatile pair of classic-frame sunglasses with a lightweight feel. An easy everyday accessory for sunny walks, weekends, and travel.",
+    "variants": {
+      "Color": ["Black", "Tortoise", "Olive"]
+    },
+    "variantStock": {
+      "Color=Black": 2,
+      "Color=Tortoise": 2,
+      "Color=Olive": 2
+    },
+    "reviews": [
+      { "name": "Ari F.", "rating": 5, "comment": "Comfortable for all-day wear and the frame looks great.", "date": "October 5, 2026" },
+      { "name": "Priya D.", "rating": 4, "comment": "A nice classic shape and good value.", "date": "September 22, 2026" }
+    ]
+  },
+  {
+    "id": "botanical-candle",
+    "name": "Botanical Soy Candle",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 21.00,
+    "stock": 15,
+    "badge": "New",
+    "description": "A small-batch soy candle made for a calm, cozy atmosphere. Light it during a quiet evening or add it to your favorite reading corner.",
+    "variants": {
+      "Color": ["Amber", "Ivory"]
+    },
+    "variantStock": {
+      "Color=Amber": 9,
+      "Color=Ivory": 6
+    },
+    "reviews": [
+      { "name": "Elena W.", "rating": 5, "comment": "A gentle scent that makes my space feel warm without being overpowering.", "date": "October 16, 2026" },
+      { "name": "Rafi T.", "rating": 4, "comment": "Burns evenly and looks lovely on the shelf.", "date": "October 9, 2026" }
+    ]
+  },
+  {
+    "id": "weekender-bag",
+    "name": "Weekend Travel Bag",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 48.00,
+    "stock": 4,
+    "badge": "",
+    "description": "A practical weekender bag with space for a short trip and pockets to keep smaller items easy to find. Carry it by the handles or take it along for a quick getaway.",
+    "variants": {
+      "Color": ["Sand", "Charcoal", "Green"]
+    },
+    "variantStock": {
+      "Color=Sand": 2,
+      "Color=Charcoal": 1,
+      "Color=Green": 1
+    },
+    "reviews": [
+      { "name": "Nora B.", "rating": 5, "comment": "Fits everything I need for a weekend away without feeling bulky.", "date": "October 11, 2026" },
+      { "name": "Imran A.", "rating": 5, "comment": "Good pockets and comfortable handles.", "date": "September 30, 2026" }
+    ]
+  },
+  {
+    "id": "everyday-smartphone",
+    "name": "Everyday Smartphone",
+    "category": "Mobile Phones",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 549.00,
+    "stock": 12,
+    "badge": "Popular",
+    "description": "A versatile smartphone for staying in touch, capturing everyday moments, and enjoying your favorite apps. Choose the color and storage size that work for you.",
+    "variants": {
+      "Color": ["Midnight", "Silver", "Blue"],
+      "Storage": ["128 GB", "256 GB", "512 GB"]
+    },
+    "variantStock": {
+      "Color=Midnight|Storage=128 GB": 3,
+      "Color=Midnight|Storage=256 GB": 1,
+      "Color=Midnight|Storage=512 GB": 1,
+      "Color=Silver|Storage=128 GB": 2,
+      "Color=Silver|Storage=256 GB": 1,
+      "Color=Silver|Storage=512 GB": 1,
+      "Color=Blue|Storage=128 GB": 1,
+      "Color=Blue|Storage=256 GB": 1,
+      "Color=Blue|Storage=512 GB": 1
+    },
+    "variantImages": {
+      "Color=Midnight": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=85",
+      "Color=Silver": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1200&q=85",
+      "Color=Blue": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&w=1200&q=85"
+    },
+    "reviews": [
+      { "name": "Hana Q.", "rating": 5, "comment": "Easy to set up and fast for all the everyday things I use it for.", "date": "October 18, 2026" },
+      { "name": "Zain R.", "rating": 4, "comment": "The display is clear and the battery comfortably lasts through my day.", "date": "October 3, 2026" }
+    ]
+  },
+  {
+    "id": "lightweight-laptop",
+    "name": "Lightweight Everyday Laptop",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 899.00,
+    "stock": 9,
+    "badge": "",
+    "description": "A portable laptop for study, work, and everyday browsing. Pick your preferred finish and storage capacity before adding it to your cart.",
+    "variants": {
+      "Color": ["Space Gray", "Silver"],
+      "Storage": ["256 GB", "512 GB", "1 TB"]
+    },
+    "variantStock": {
+      "Color=Space Gray|Storage=256 GB": 2,
+      "Color=Space Gray|Storage=512 GB": 2,
+      "Color=Space Gray|Storage=1 TB": 1,
+      "Color=Silver|Storage=256 GB": 2,
+      "Color=Silver|Storage=512 GB": 1,
+      "Color=Silver|Storage=1 TB": 1
+    },
+    "variantImages": {
+      "Color=Space Gray": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=85",
+      "Color=Silver": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=85"
+    },
+    "reviews": [
+      { "name": "Mina L.", "rating": 5, "comment": "Light enough to carry every day and works well for my coursework.", "date": "October 14, 2026" },
+      { "name": "Faisal N.", "rating": 4, "comment": "A clean design and responsive for my daily work.", "date": "October 1, 2026" }
+    ]
+  },
+  {
+    "id": "soft-touch-lip-color",
+    "name": "Soft Touch Lip Color",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 16.00,
+    "stock": 18,
+    "badge": "New shades",
+    "description": "A comfortable lip color with a soft finish for everyday wear. Choose from a range of easy-to-wear shades to find the color that feels like you.",
+    "variants": {
+      "Color": ["Rose", "Berry", "Coral", "Nude"]
+    },
+    "variantStock": {
+      "Color=Rose": 7,
+      "Color=Berry": 5,
+      "Color=Coral": 4,
+      "Color=Nude": 2
+    },
+    "reviews": [
+      { "name": "Ayesha P.", "rating": 5, "comment": "The color feels comfortable and the Rose shade is lovely.", "date": "October 20, 2026" },
+      { "name": "Jules C.", "rating": 5, "comment": "A great everyday shade that is easy to apply.", "date": "October 7, 2026" }
+    ]
+  }
+]

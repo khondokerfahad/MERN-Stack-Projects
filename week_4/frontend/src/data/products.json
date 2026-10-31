@@ -5,7 +5,7 @@
     "category": "Accessories",
     "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
     "rating": 4.8,
-    "price": 24.00,
+    "price": 24.0,
     "stock": 12,
     "badge": "Bestseller",
     "description": "A sturdy everyday canvas tote with room for your daily essentials. Its comfortable handles and simple design make it an easy companion for errands, work, or a weekend out.",
@@ -18,8 +18,18 @@
       "Color=Terracotta": 1
     },
     "reviews": [
-      { "name": "Maya R.", "rating": 5, "comment": "Roomy, comfortable, and exactly what I wanted for everyday errands.", "date": "October 12, 2026" },
-      { "name": "Nadia K.", "rating": 4, "comment": "The canvas feels sturdy and the color looks just like the photos.", "date": "September 28, 2026" }
+      {
+        "name": "Maya R.",
+        "rating": 5,
+        "comment": "Roomy, comfortable, and exactly what I wanted for everyday errands.",
+        "date": "October 12, 2026"
+      },
+      {
+        "name": "Nadia K.",
+        "rating": 4,
+        "comment": "The canvas feels sturdy and the color looks just like the photos.",
+        "date": "September 28, 2026"
+      }
     ]
   },
   {
@@ -28,7 +38,7 @@
     "category": "Home & Living",
     "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=900&q=85",
     "rating": 4.6,
-    "price": 18.50,
+    "price": 18.5,
     "stock": 8,
     "badge": "Customer favorite",
     "description": "A thoughtfully shaped stoneware mug for slow mornings and afternoon tea. The softly textured finish makes every piece feel at home on your table.",
@@ -41,8 +51,18 @@
       "Color=Clay": 2
     },
     "reviews": [
-      { "name": "Omar H.", "rating": 5, "comment": "A lovely weight and size. It has become my favorite morning mug.", "date": "October 8, 2026" },
-      { "name": "Lina S.", "rating": 4, "comment": "Beautiful finish and easy to hold.", "date": "September 17, 2026" }
+      {
+        "name": "Omar H.",
+        "rating": 5,
+        "comment": "A lovely weight and size. It has become my favorite morning mug.",
+        "date": "October 8, 2026"
+      },
+      {
+        "name": "Lina S.",
+        "rating": 4,
+        "comment": "Beautiful finish and easy to hold.",
+        "date": "September 17, 2026"
+      }
     ]
   },
   {
@@ -51,7 +71,7 @@
     "category": "Stationery",
     "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=900&q=85",
     "rating": 4.9,
-    "price": 14.00,
+    "price": 14.0,
     "stock": 20,
     "badge": "",
     "description": "A linen-bound notebook with smooth pages for notes, plans, sketches, and ideas. Its compact format slips easily into a bag or sits neatly on your desk.",
@@ -64,8 +84,18 @@
       "Color=Rose": 5
     },
     "reviews": [
-      { "name": "Tara M.", "rating": 5, "comment": "The paper is lovely to write on and the cover feels special.", "date": "October 2, 2026" },
-      { "name": "Sam J.", "rating": 5, "comment": "Simple, useful, and a great size to carry around.", "date": "September 19, 2026" }
+      {
+        "name": "Tara M.",
+        "rating": 5,
+        "comment": "The paper is lovely to write on and the cover feels special.",
+        "date": "October 2, 2026"
+      },
+      {
+        "name": "Sam J.",
+        "rating": 5,
+        "comment": "Simple, useful, and a great size to carry around.",
+        "date": "September 19, 2026"
+      }
     ]
   },
   {
@@ -74,7 +104,7 @@
     "category": "Accessories",
     "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=85",
     "rating": 4.7,
-    "price": 32.00,
+    "price": 32.0,
     "stock": 6,
     "badge": "",
     "description": "A versatile pair of classic-frame sunglasses with a lightweight feel. An easy everyday accessory for sunny walks, weekends, and travel.",
@@ -87,8 +117,18 @@
       "Color=Olive": 2
     },
     "reviews": [
-      { "name": "Ari F.", "rating": 5, "comment": "Comfortable for all-day wear and the frame looks great.", "date": "October 5, 2026" },
-      { "name": "Priya D.", "rating": 4, "comment": "A nice classic shape and good value.", "date": "September 22, 2026" }
+      {
+        "name": "Ari F.",
+        "rating": 5,
+        "comment": "Comfortable for all-day wear and the frame looks great.",
+        "date": "October 5, 2026"
+      },
+      {
+        "name": "Priya D.",
+        "rating": 4,
+        "comment": "A nice classic shape and good value.",
+        "date": "September 22, 2026"
+      }
     ]
   },
   {
@@ -97,7 +137,7 @@
     "category": "Home & Living",
     "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=85",
     "rating": 4.5,
-    "price": 21.00,
+    "price": 21.0,
     "stock": 15,
     "badge": "New",
     "description": "A small-batch soy candle made for a calm, cozy atmosphere. Light it during a quiet evening or add it to your favorite reading corner.",
@@ -109,8 +149,18 @@
       "Color=Ivory": 6
     },
     "reviews": [
-      { "name": "Elena W.", "rating": 5, "comment": "A gentle scent that makes my space feel warm without being overpowering.", "date": "October 16, 2026" },
-      { "name": "Rafi T.", "rating": 4, "comment": "Burns evenly and looks lovely on the shelf.", "date": "October 9, 2026" }
+      {
+        "name": "Elena W.",
+        "rating": 5,
+        "comment": "A gentle scent that makes my space feel warm without being overpowering.",
+        "date": "October 16, 2026"
+      },
+      {
+        "name": "Rafi T.",
+        "rating": 4,
+        "comment": "Burns evenly and looks lovely on the shelf.",
+        "date": "October 9, 2026"
+      }
     ]
   },
   {
@@ -119,7 +169,7 @@
     "category": "Accessories",
     "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
     "rating": 4.8,
-    "price": 48.00,
+    "price": 48.0,
     "stock": 4,
     "badge": "",
     "description": "A practical weekender bag with space for a short trip and pockets to keep smaller items easy to find. Carry it by the handles or take it along for a quick getaway.",
@@ -132,8 +182,18 @@
       "Color=Green": 1
     },
     "reviews": [
-      { "name": "Nora B.", "rating": 5, "comment": "Fits everything I need for a weekend away without feeling bulky.", "date": "October 11, 2026" },
-      { "name": "Imran A.", "rating": 5, "comment": "Good pockets and comfortable handles.", "date": "September 30, 2026" }
+      {
+        "name": "Nora B.",
+        "rating": 5,
+        "comment": "Fits everything I need for a weekend away without feeling bulky.",
+        "date": "October 11, 2026"
+      },
+      {
+        "name": "Imran A.",
+        "rating": 5,
+        "comment": "Good pockets and comfortable handles.",
+        "date": "September 30, 2026"
+      }
     ]
   },
   {
@@ -142,7 +202,7 @@
     "category": "Mobile Phones",
     "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
     "rating": 4.7,
-    "price": 549.00,
+    "price": 549.0,
     "stock": 12,
     "badge": "Popular",
     "description": "A versatile smartphone for staying in touch, capturing everyday moments, and enjoying your favorite apps. Choose the color and storage size that work for you.",
@@ -167,8 +227,18 @@
       "Color=Blue": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&w=1200&q=85"
     },
     "reviews": [
-      { "name": "Hana Q.", "rating": 5, "comment": "Easy to set up and fast for all the everyday things I use it for.", "date": "October 18, 2026" },
-      { "name": "Zain R.", "rating": 4, "comment": "The display is clear and the battery comfortably lasts through my day.", "date": "October 3, 2026" }
+      {
+        "name": "Hana Q.",
+        "rating": 5,
+        "comment": "Easy to set up and fast for all the everyday things I use it for.",
+        "date": "October 18, 2026"
+      },
+      {
+        "name": "Zain R.",
+        "rating": 4,
+        "comment": "The display is clear and the battery comfortably lasts through my day.",
+        "date": "October 3, 2026"
+      }
     ]
   },
   {
@@ -177,7 +247,7 @@
     "category": "Laptops",
     "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
     "rating": 4.6,
-    "price": 899.00,
+    "price": 899.0,
     "stock": 9,
     "badge": "",
     "description": "A portable laptop for study, work, and everyday browsing. Pick your preferred finish and storage capacity before adding it to your cart.",
@@ -198,8 +268,18 @@
       "Color=Silver": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=85"
     },
     "reviews": [
-      { "name": "Mina L.", "rating": 5, "comment": "Light enough to carry every day and works well for my coursework.", "date": "October 14, 2026" },
-      { "name": "Faisal N.", "rating": 4, "comment": "A clean design and responsive for my daily work.", "date": "October 1, 2026" }
+      {
+        "name": "Mina L.",
+        "rating": 5,
+        "comment": "Light enough to carry every day and works well for my coursework.",
+        "date": "October 14, 2026"
+      },
+      {
+        "name": "Faisal N.",
+        "rating": 4,
+        "comment": "A clean design and responsive for my daily work.",
+        "date": "October 1, 2026"
+      }
     ]
   },
   {
@@ -208,7 +288,7 @@
     "category": "Beauty",
     "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&q=85",
     "rating": 4.8,
-    "price": 16.00,
+    "price": 16.0,
     "stock": 18,
     "badge": "New shades",
     "description": "A comfortable lip color with a soft finish for everyday wear. Choose from a range of easy-to-wear shades to find the color that feels like you.",
@@ -222,8 +302,648 @@
       "Color=Nude": 2
     },
     "reviews": [
-      { "name": "Ayesha P.", "rating": 5, "comment": "The color feels comfortable and the Rose shade is lovely.", "date": "October 20, 2026" },
-      { "name": "Jules C.", "rating": 5, "comment": "A great everyday shade that is easy to apply.", "date": "October 7, 2026" }
+      {
+        "name": "Ayesha P.",
+        "rating": 5,
+        "comment": "The color feels comfortable and the Rose shade is lovely.",
+        "date": "October 20, 2026"
+      },
+      {
+        "name": "Jules C.",
+        "rating": 5,
+        "comment": "A great everyday shade that is easy to apply.",
+        "date": "October 7, 2026"
+      }
     ]
+  },
+  {
+    "id": "weekend-crossbody",
+    "name": "Weekend Crossbody Bag",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 36.0,
+    "stock": 10,
+    "description": "A compact crossbody bag with room for your daily essentials, designed for hands-free outings and weekend adventures."
+  },
+  {
+    "id": "everyday-backpack",
+    "name": "Everyday City Backpack",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 58.0,
+    "stock": 8,
+    "description": "A versatile backpack with a roomy main compartment for commuting, classes, and day trips."
+  },
+  {
+    "id": "leather-card-holder",
+    "name": "Slim Leather Card Holder",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 22.0,
+    "stock": 14,
+    "description": "A slim card holder that keeps your everyday essentials organized without adding bulk."
+  },
+  {
+    "id": "classic-watch",
+    "name": "Classic Everyday Watch",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 74.0,
+    "stock": 7,
+    "description": "A clean, easy-to-wear watch with a timeless face for workdays and weekends."
+  },
+  {
+    "id": "woven-belt",
+    "name": "Woven Everyday Belt",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.4,
+    "price": 28.0,
+    "stock": 11,
+    "description": "A comfortable woven belt that pairs easily with everyday outfits."
+  },
+  {
+    "id": "cotton-cap",
+    "name": "Soft Cotton Cap",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 19.0,
+    "stock": 13,
+    "description": "A lightweight cotton cap with an adjustable fit for sunny walks and casual days."
+  },
+  {
+    "id": "travel-pouch-set",
+    "name": "Travel Organizer Pouch Set",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 26.0,
+    "stock": 9,
+    "description": "A handy set of travel pouches to keep small essentials sorted in your bag."
+  },
+  {
+    "id": "everyday-scarf",
+    "name": "Lightweight Everyday Scarf",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 25.0,
+    "stock": 10,
+    "description": "A soft, lightweight scarf that adds an easy finishing touch through changing seasons."
+  },
+  {
+    "id": "minimalist-wallet",
+    "name": "Minimalist Fold Wallet",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 39.0,
+    "stock": 8,
+    "description": "A compact wallet with a practical layout for cards, notes, and everyday carry."
+  },
+  {
+    "id": "round-frame-glasses",
+    "name": "Round Frame Sunglasses",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.4,
+    "price": 29.0,
+    "stock": 12,
+    "description": "A lightweight round frame that brings a relaxed classic look to sunny days."
+  },
+  {
+    "id": "leather-key-organizer",
+    "name": "Leather Key Organizer",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.3,
+    "price": 17.0,
+    "stock": 15,
+    "description": "A compact organizer that keeps everyday keys together and easy to find."
+  },
+  {
+    "id": "ceramic-vase",
+    "name": "Textured Ceramic Vase",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 34.0,
+    "stock": 6,
+    "description": "A softly textured ceramic vase that makes a simple centerpiece for fresh or dried stems."
+  },
+  {
+    "id": "cotton-throw",
+    "name": "Woven Cotton Throw",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 52.0,
+    "stock": 7,
+    "description": "A cozy woven cotton throw for layering over a sofa or keeping close on cool evenings."
+  },
+  {
+    "id": "wooden-serving-board",
+    "name": "Oak Serving Board",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1603199506016-b9a594b593c0?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 31.0,
+    "stock": 9,
+    "description": "A sturdy oak serving board for snacks, cheeses, and relaxed gatherings."
+  },
+  {
+    "id": "glass-water-bottle",
+    "name": "Glass Water Bottle",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 20.0,
+    "stock": 12,
+    "description": "A reusable glass bottle with a practical carry lid to keep water close throughout the day."
+  },
+  {
+    "id": "linen-cushion-cover",
+    "name": "Linen Cushion Cover",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.4,
+    "price": 23.0,
+    "stock": 11,
+    "description": "A relaxed linen cushion cover that brings natural texture to your living space."
+  },
+  {
+    "id": "table-lamp",
+    "name": "Warm Glow Table Lamp",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 68.0,
+    "stock": 5,
+    "description": "A compact table lamp with a warm glow for reading corners and bedside tables."
+  },
+  {
+    "id": "bamboo-cutting-board",
+    "name": "Bamboo Cutting Board",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1603199506016-b9a594b593c0?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 24.0,
+    "stock": 10,
+    "description": "A durable bamboo board for everyday chopping and serving."
+  },
+  {
+    "id": "cotton-bath-towel",
+    "name": "Plush Cotton Bath Towel",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 27.0,
+    "stock": 14,
+    "description": "A soft, absorbent cotton towel made for a comfortable everyday routine."
+  },
+  {
+    "id": "scented-room-diffuser",
+    "name": "Botanical Room Diffuser",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.3,
+    "price": 29.0,
+    "stock": 8,
+    "description": "A simple reed diffuser that adds a gentle botanical fragrance to your room."
+  },
+  {
+    "id": "ceramic-planter",
+    "name": "Small Ceramic Planter",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 18.0,
+    "stock": 13,
+    "description": "A small ceramic planter sized for herbs, succulents, and windowsill greenery."
+  },
+  {
+    "id": "stainless-travel-mug",
+    "name": "Insulated Travel Mug",
+    "category": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 25.0,
+    "stock": 12,
+    "description": "An insulated travel mug to keep your favorite drink handy on the move."
+  },
+  {
+    "id": "desk-organizer",
+    "name": "Wooden Desk Organizer",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 33.0,
+    "stock": 7,
+    "description": "A tidy desktop organizer with room for pens, notes, and everyday work essentials."
+  },
+  {
+    "id": "weekly-planner",
+    "name": "Undated Weekly Planner",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 16.0,
+    "stock": 16,
+    "description": "An undated weekly planner to help organize tasks and make space for what matters."
+  },
+  {
+    "id": "gel-pen-set",
+    "name": "Smooth Gel Pen Set",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 12.0,
+    "stock": 20,
+    "description": "A set of smooth-writing gel pens for notes, lists, and everyday journaling."
+  },
+  {
+    "id": "hardcover-sketchbook",
+    "name": "Hardcover Sketchbook",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 21.0,
+    "stock": 10,
+    "description": "A sturdy hardcover sketchbook with plenty of room for drawings and ideas."
+  },
+  {
+    "id": "sticky-note-bundle",
+    "name": "Colorful Sticky Note Bundle",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.2,
+    "price": 9.0,
+    "stock": 24,
+    "description": "A cheerful bundle of sticky notes for reminders, bookmarks, and quick thoughts."
+  },
+  {
+    "id": "fountain-pen",
+    "name": "Everyday Fountain Pen",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 28.0,
+    "stock": 8,
+    "description": "A comfortable fountain pen for journaling, letters, and thoughtful note-taking."
+  },
+  {
+    "id": "paper-gift-tags",
+    "name": "Recycled Paper Gift Tags",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.4,
+    "price": 8.0,
+    "stock": 30,
+    "description": "A set of recycled paper gift tags for adding a personal note to every package."
+  },
+  {
+    "id": "wireless-earbuds",
+    "name": "Everyday Wireless Earbuds",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 69.0,
+    "stock": 9,
+    "description": "Compact wireless earbuds for calls, music, and podcasts throughout the day."
+  },
+  {
+    "id": "portable-bluetooth-speaker",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 54.0,
+    "stock": 7,
+    "description": "A portable speaker that brings your playlists along for home listening and outdoor plans."
+  },
+  {
+    "id": "wireless-charging-pad",
+    "name": "Wireless Charging Pad",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.3,
+    "price": 24.0,
+    "stock": 13,
+    "description": "A simple wireless charging pad that keeps a compatible phone topped up on your desk."
+  },
+  {
+    "id": "usb-c-hub",
+    "name": "Compact USB-C Hub",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 39.0,
+    "stock": 10,
+    "description": "A compact hub that adds useful ports to your laptop setup at home or on the go."
+  },
+  {
+    "id": "mechanical-keyboard",
+    "name": "Compact Mechanical Keyboard",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.8,
+    "price": 89.0,
+    "stock": 6,
+    "description": "A compact mechanical keyboard with a satisfying feel for focused work and play."
+  },
+  {
+    "id": "wireless-mouse",
+    "name": "Quiet Wireless Mouse",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 32.0,
+    "stock": 11,
+    "description": "A comfortable wireless mouse with quiet clicks for workspaces and study sessions."
+  },
+  {
+    "id": "phone-stand",
+    "name": "Adjustable Phone Stand",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.4,
+    "price": 15.0,
+    "stock": 18,
+    "description": "An adjustable stand that keeps your phone at a comfortable viewing angle on your desk."
+  },
+  {
+    "id": "power-bank",
+    "name": "Pocket Power Bank",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 42.0,
+    "stock": 8,
+    "description": "A pocket-sized power bank for charging your devices while you are away from an outlet."
+  },
+  {
+    "id": "webcam-cover-set",
+    "name": "Webcam Privacy Cover Set",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.1,
+    "price": 7.0,
+    "stock": 25,
+    "description": "A small set of sliding webcam covers for an added layer of everyday privacy."
+  },
+  {
+    "id": "laptop-sleeve",
+    "name": "Padded Laptop Sleeve",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 38.0,
+    "stock": 9,
+    "description": "A padded sleeve that helps protect your laptop while commuting or traveling."
+  },
+  {
+    "id": "tablet-sleeve",
+    "name": "Everyday Tablet Sleeve",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 29.0,
+    "stock": 10,
+    "description": "A soft-lined sleeve to keep a tablet protected in your backpack or tote."
+  },
+  {
+    "id": "phone-case-clear",
+    "name": "Clear Everyday Phone Case",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1603313011105-34b8db6a8f4b?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.3,
+    "price": 18.0,
+    "stock": 16,
+    "description": "A slim clear case that helps protect your phone while keeping its original design visible."
+  },
+  {
+    "id": "phone-charging-cable",
+    "name": "Braided Charging Cable",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.4,
+    "price": 14.0,
+    "stock": 20,
+    "description": "A durable braided cable for charging and syncing compatible everyday devices."
+  },
+  {
+    "id": "hydrating-face-cream",
+    "name": "Daily Hydrating Face Cream",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 28.0,
+    "stock": 12,
+    "description": "A lightweight daily face cream made for a comfortable, hydrated-feeling skincare routine."
+  },
+  {
+    "id": "gentle-face-cleanser",
+    "name": "Gentle Daily Face Cleanser",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 19.0,
+    "stock": 14,
+    "description": "A gentle cleanser for a fresh, simple start and finish to your daily skincare routine."
+  },
+  {
+    "id": "mineral-sunscreen",
+    "name": "Daily Mineral Sunscreen",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 24.0,
+    "stock": 11,
+    "description": "A daily mineral sunscreen designed to fit easily into your morning skincare routine."
+  },
+  {
+    "id": "rosewater-face-mist",
+    "name": "Refreshing Rosewater Face Mist",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.4,
+    "price": 17.0,
+    "stock": 15,
+    "description": "A refreshing face mist for a light, cooling pick-me-up during the day."
+  },
+  {
+    "id": "hand-care-set",
+    "name": "Nourishing Hand Care Set",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 26.0,
+    "stock": 8,
+    "description": "A small hand-care set for keeping hands feeling soft through busy days."
+  },
+  {
+    "id": "bath-salt-soak",
+    "name": "Calming Bath Salt Soak",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.3,
+    "price": 21.0,
+    "stock": 10,
+    "description": "A relaxing bath soak to make a little room for a slower evening routine."
+  },
+  {
+    "id": "hair-brush",
+    "name": "Gentle Detangling Hair Brush",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.5,
+    "price": 16.0,
+    "stock": 13,
+    "description": "A comfortable everyday brush designed to help detangle hair with ease."
+  },
+  {
+    "id": "reusable-makeup-pads-1",
+    "name": "Reusable Makeup Pads-1",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-2",
+    "name": "Reusable Makeup Pads-2",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-3",
+    "name": "Reusable Makeup Pads-3",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-4",
+    "name": "Reusable Makeup Pads-4",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-5",
+    "name": "Reusable Makeup Pads-5",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-6",
+    "name": "Reusable Makeup Pads-6",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-7",
+    "name": "Reusable Makeup Pads-7",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-8",
+    "name": "Reusable Makeup Pads-8",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-9",
+    "name": "Reusable Makeup Pads-9",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-10",
+    "name": "Reusable Makeup Pads-10",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-11",
+    "name": "Reusable Makeup Pads-11",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-12",
+    "name": "Reusable Makeup Pads-12",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "reusable-makeup-pads-13",
+    "name": "Reusable Makeup Pads-13",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.7,
+    "price": 13.0,
+    "stock": 18,
+    "description": "A reusable set of soft cleansing pads for a more considered skincare routine."
+  },
+  {
+    "id": "travel-cosmetic-bag",
+    "name": "Travel Cosmetic Bag",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+    "rating": 4.6,
+    "price": 27.0,
+    "stock": 9,
+    "description": "A zip-up cosmetic bag with room to keep your travel-size essentials together."
   }
 ]

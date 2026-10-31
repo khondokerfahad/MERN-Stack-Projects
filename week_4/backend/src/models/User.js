@@ -22,6 +22,37 @@ const userSchema = new mongoose.Schema(
       required: true,
       select: false,
     },
+    phone: {
+      type: String,
+      trim: true,
+      maxlength: 20,
+    },
+    phoneVerified: {
+      type: Boolean,
+      default: false,
+    },
+    phoneOtpHash: {
+      type: String,
+      select: false,
+    },
+    phoneOtpExpiresAt: {
+      type: Date,
+      select: false,
+    },
+    phoneOtpSentAt: {
+      type: Date,
+      select: false,
+    },
+    phoneOtpAttempts: {
+      type: Number,
+      default: 0,
+      select: false,
+    },
+    shippingAddress: {
+      type: String,
+      trim: true,
+      maxlength: 300,
+    },
   },
   { timestamps: true },
 )

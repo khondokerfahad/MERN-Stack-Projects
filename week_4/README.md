@@ -53,7 +53,6 @@ update the product cards. Each product uses this shape:
   "name": "Everyday Canvas Tote",
   "category": "Accessories",
   "image": "https://example.com/product-image.jpg",
-  "rating": 4.8,
   "price": 24.00,
   "stock": 12,
   "badge": "Bestseller",
@@ -82,7 +81,12 @@ update the product cards. Each product uses this shape:
 }
 ```
 
-Give each product a unique `id`, and provide its image as a URL. `variants`
+The sample catalog contains 60 products. The home page shows nine products
+per page in a three-column grid. Pagination shows a window of up to seven
+consecutive pages around the current page, with previous/next arrows when
+additional pages exist outside the window. Give each product a unique `id`,
+and provide its image as a URL.
+`variants`
 accepts any option groups; for example, mobile phones and laptops can have
 `Color` and `Storage`, while beauty products can have `Color`. `variantStock`
 assigns stock to each exact variant selection. For a product with more than
@@ -98,6 +102,11 @@ full-combination key such as `"Color=Silver|Storage=512 GB"` can override it.
 When no image is configured for a selected color, the storefront applies a
 color-specific visual tint to the default image.
 
+Product ratings are calculated as the average of the ratings in each product's
+`reviews` and feedback submitted by users. The product card and product page
+show the same average and review count; products without feedback show “No
+ratings yet.”
+
 A product page shows its information, variant selectors, description, rating,
 and customer feedback. Available stock and quantity choices update when a
 variant is selected, and adding to the cart cannot exceed that exact variant's
@@ -105,11 +114,22 @@ remaining inventory.
 
 ## Accounts, feedback, and checkout
 
-The backend provides signup and sign-in using bcrypt-hashed passwords and
-MongoDB-backed HTTP-only sessions. Set a random `SESSION_SECRET` in
-`backend\.env` before starting the API. Signed-in users can leave a product
-rating and comment; submitted feedback is saved in the current browser's
-localStorage, not MongoDB.
+The backend provides sign-in and signup using bcrypt-hashed passwords and
+MongoDB-backed HTTP-only sessions. Signup requires a password of at least
+eight characters with uppercase and lowercase letters, a number, and a special
+character. Email verification is skipped. After signup, users enter a phone
+number and verify a six-digit code; codes expire after three minutes and are
+limited to five attempts. During local development, the code is displayed on
+the phone verification page and is not sent by SMS. Phone OTP is disabled in
+production because an SMS provider is not configured. After phone verification,
+users complete their profile with a shipping address. The profile dropdown
+contains Profile, Settings, and Logout. Google sign-in is currently a
+placeholder button and is not connected to OAuth. There is no default email
+or password; users sign in with the credentials they created.
+
+Set a random `SESSION_SECRET` in `backend\.env` before starting the API.
+Signed-in users can leave a product rating and comment; submitted feedback is
+saved in the current browser's localStorage, not MongoDB.
 
 Checkout requires a signed-in account. After sign-in, the user returns to the
 cart and can continue to the demo payment page. Completing checkout only
@@ -130,11 +150,13 @@ rules are configured. Cart contents last for the current visit.
 ## Project features
 
 - React + Vite storefront with Home, About Us, and Contact Us navigation
+- Help & Support menu linking to help, contact, shipping, order, payment, and returns information
 - Responsive product cards populated from the JSON catalog
 - Product detail pages with configurable variant selectors and customer feedback
 - Color-specific product images configurable per variant in the catalog
 - Quantity-limited cart, cart page, live cart count, and stock display
 - MongoDB-backed account sessions and browser-saved customer feedback
+- Phone-verified signup with password rules and required delivery profile
 - Header profile avatar, signed-in greeting, and cart icon count badge
 - Demo checkout that does not request or process payment information
 - Express API with a health endpoint
